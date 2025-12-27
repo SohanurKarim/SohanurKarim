@@ -55,6 +55,9 @@ I am a **Mobile Application Developer, DevOps Engineer, and Full Stack Web Devel
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" height="25"/>
+ <img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white" height="25"/>
 </p>
 
 ### ⚙️ DevOps & Cloud
