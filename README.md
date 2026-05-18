@@ -6,7 +6,7 @@
   </a>
 </p>
 
-I am a **Mobile Application Developer, DevOps Engineer, and Full Stack Web Developer** with **1.6+ years of industrial experience**. I work across **Android, Flutter, Web, and DevOps**, focusing on scalable applications, clean UI/UX, and automated deployment pipelines.
+I am a **Mobile Application Developer, DevOps Engineer, and Full Stack Web Developer** with **2.8+ years of industrial experience**. I work across **Android, Flutter, Web, and DevOps**, focusing on scalable applications, clean UI/UX, and automated deployment pipelines.
 
 🌱 **Currently working as a Mobile Application Developer at [SFDW](https://shakti.org.bd)**
 
